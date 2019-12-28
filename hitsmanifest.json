@@ -1,7 +1,7 @@
 {
   "name": "AFLIXX",
   "short_name": "aflixx",
-  "start_url": "https://news.aflixx.com/?m=1",
+  "start_url": "https://hits.aflixx.com/?m=1",
   "display": "standalone",
   "background_color": "#fafafa",
   "theme_color": "#ff0000",
